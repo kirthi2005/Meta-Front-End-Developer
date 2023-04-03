@@ -2,7 +2,7 @@
 
 This repo contains all of my assignments and notes from the 9 courses in the Coursera Meta Front-End Developer Professional Certificate course.
 
-#### Table of Content
+### Table of Content
 
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
 
@@ -17,3 +17,5 @@ Course 8: [Front-End Developer Capstone](https://github.com/kirthi2005/Front-End
 Course 9: [Coding Interview Preparation](https://github.com/kirthi2005/Coding-Interview-Preparation.git)
 
 <!-- /TOC -->
+
+### Certificate of Completion
